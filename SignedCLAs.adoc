@@ -2,10 +2,23 @@
 
 == Corporate CLAs
 
-Company Name | Contact Name | Contact email
--------------|--------------|--------------
-Acme | Mr Acme | acme@example.org
+|===
+|Company Name | Contact Name | Contact email
+
+|Acme 
+| Mr Acme 
+| acme@example.org
+
+|===
 
 == Individual CLAs
-Name         | Contact email
--------------|--------------
+|===
+|Name |Contact email
+
+| Example name
+| Example email
+
+| Example 2 name
+| Example 2 email
+
+|===
