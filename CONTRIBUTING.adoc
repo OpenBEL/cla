@@ -1,4 +1,4 @@
-### Contributing a CLA
+= Contributing a CLA
 You can download the CLA that applies (individual or corporate), sign it and then upload it as a PDF or PNG as an attachment to an issue.
 
 The OpenBEL overall Github maintainers will mark the issue as resolved and add your email address or Corporate name to the SignedCLAs.md file along with the CLA version signed.
