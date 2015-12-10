@@ -1,3 +1,6 @@
+= Contributing
+We are very interested in community contributions.  Please do contact one of the core team or go here http://openbel.github.io/[Welcome to OpenBEL Development] for more information on how to get started.
+
 = Contributing a CLA
 You can download the CLA that applies (individual or corporate), sign it and then upload it as a PDF or PNG as an attachment to an issue.
 
